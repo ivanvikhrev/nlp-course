@@ -1,10 +1,10 @@
-#Natural Language Processing course
+# Natural Language Processing course
 
-1. Text classification.
+## Text classification.
 
-    Lab work based on next [kaggle competition](https://www.kaggle.com/competitions/unn-nlp-2021-classification/leaderboard). The task is to predict the quality of the post on stackoverflow based on its content. Classical methods such as vectorizations (BOW, tf-idf), pretrained word embeddings and deep learning methods are used in this work.
+Lab work based on next [kaggle competition](https://www.kaggle.com/competitions/unn-nlp-2021-classification/leaderboard). The task is to predict the quality of the post on stackoverflow based on its content. Classical methods such as vectorizations (BOW, tf-idf), pretrained word embeddings and deep learning methods are used in this work.
 
-2. Text generation.
+## Text generation.
 
-    The task was to gather own dataset and train nlp model on it to make style-unique text generation model.
+The task was to gather your own dataset and train nlp model on it to make style-unique text generation.
 
